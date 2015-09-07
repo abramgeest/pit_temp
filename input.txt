@@ -1,0 +1,4 @@
+numyears=4 #the number of years
+test=1     #Run test 0 =false, 1=true
+dir=/Users/abramvandergeest/fun+progs/pit_git/
+tz=2
